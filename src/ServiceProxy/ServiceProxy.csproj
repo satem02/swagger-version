@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Colossus.ServiceProxy</RootNamespace>
+    <AssemblyName>Colossus.ServiceProxy</AssemblyName>
+  </PropertyGroup>
+
+</Project>
